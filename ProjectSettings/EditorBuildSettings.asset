@@ -15,30 +15,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Lobby.unity
     guid: b5b67effc8261453f9b159594d20ed62
   - enabled: 1
-    path: Assets/Scenes/Back.unity
-    guid: 97f11ced185b943bebad1ba5c9cc3293
-  - enabled: 0
-    path: Assets/Scenes/Construction/Architecture.unity
-    guid: 64a090122b8214fafa4624c4a1f36b9a
-  - enabled: 0
-    path: Assets/Scenes/Construction/Libraries.unity
-    guid: 9ff610a04a9ad45739ed92f6f9854e7a
-  - enabled: 0
-    path: Assets/Scenes/Test/Eventual Connectivity.unity
-    guid: 2e63402a90f744cac8337060d2509fb6
-  - enabled: 0
-    path: Assets/Scenes/Test/Functionalities.unity
-    guid: bb3ca69c0ab0c4a01b68088cefb895dc
-  - enabled: 0
-    path: Assets/Scenes/Test/Performance.unity
-    guid: a4479bb14f7574817b3495ec0735fcec
-  - enabled: 0
-    path: Assets/Scenes/Test/Security.unity
-    guid: 79ad6fa2b5103404387315509d837e9f
-  - enabled: 0
-    path: Assets/Scenes/Test/UI Analisis.unity
-    guid: 65ceed493d8ef416e803fd8abf0e1f19
-  - enabled: 1
     path: Assets/Scenes/Menu.unity
     guid: 570981aad65b8420198e72ec32dc5c46
+  - enabled: 1
+    path: Assets/Scenes/Back.unity
+    guid: 97f11ced185b943bebad1ba5c9cc3293
   m_configObjects: {}
